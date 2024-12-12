@@ -1,0 +1,467 @@
+Rec1: Oman dehyeɛ ma me mo nyinaa aha, UTV ɛso nie
+Transcription: Rec1: ɔmma e hyɛ m mo nyira ha yutii soni
+Similarity: 0.8141
+
+GT: Rec2: Na deɛ ɛɛtɔ adwa no bi ɛne sɛ, organised labour, a wɔnomo ɛbɛyɛ yɛkyerɛ a emuɔ dene paa na yɛne omo mpanyinfoɔ no bedi emu nkɔmɔ deɛn nti a omo to saa anamɔn yi
+Transcription: Rec2: na deɛ ɛretɔ edwa no bi ɛne sɛ ognaisleba wɔ nomo bɛyɛ yɛ kyere mu ɔdene pa a na yɛne e mu mpanimfoɔ bɛdi emu nkɔmmɔ deɛ enti awɔtuu anammon
+Similarity: 0.9466
+
+GT: Rec3: Ghana adehyeɛ bi akyerɛ wɔn adwen ɛde afa democracy hub foɔ ɛyɛkyerɛ a wɔn nom kɔyɛɛyɛ a ɛnam so a ama apoosifoɔ akye ɔmo akɔ gu'm. Nnipa bi esusu sɛ yɛn nyaa wɔnnom na yɛn nsuo no a amanyɔfoɔ ɛnam daadaaakera kwan so sɛe no no, ɛno nti na omo te atuayɛ. Ahometeɛ na ɔmo de yɛɛyɛ nti yɛn nyaa wɔnnom.
+Transcription: Rec3: na noadehyeɛ bi akyerɛ wʼadwene de afa demokrasi habfoɔ yɛ kyerɛa wɔnom pɔ yɛeɛ nam so ama aposifo akyer w m akgu nipa bi ɛsu su sɛ yɛnyaa wɔnom na yɛnsuo no a amanwɔfoɔ ɛnam daadaa krakwaa so sɛe no no ɛno nti nwɔm te ɛteae ahometeɛ n ɔ mode yɛɛ nteanya wɔnom
+Similarity: 0.7966
+
+GT: Rec4: Yɛɛte asi nsɛm no emu
+Transcription: Rec4: yɛte asi nsɛm no mu
+Similarity: 0.9208
+
+GT: Rec5: United Nations Educational and Scientific and Culture Organisation, wɔnnom ɛde nhyehyɛyɛ soronko bi aba a ɛbeboa ama pɛpɛɛpɛ yɔ ada adi ɛwɔ amanmuo mpuntu ɛne ne nkankɔ emu
+Transcription: Rec5: yunated nehyens edukehyenal saentifik nkokye rganaisehyen wɔnmɔ ɛde nhyehyɛeɛ sonko bi aba a ɛrebɛboa ma pɛpɛpɛyɔ ade adi wɔ amammuo mpuntuo ne ne nka nkorɔ mu
+Similarity: 0.9445
+
+GT: Rec6: Ghana aban ne ekuo ahodoɔ ɛnhwɛ nhunu sɛ, access to information no yɛde bɛyɛ adwuma yie na etumi aboa na kabi ma menkabi etumi afa ne ntoma pa ɛde efura
+Transcription: Rec6: gana ban ne ko ahodo wɔnhwɛ nhu n sɛ asɛs tomfomyi no yɛde bɛyɛ dwuma yɛi nʼakyimi aoɔ nakabima mekabe atumi afa ne ntoma pa adi firaa
+Similarity: 0.8389
+
+GT: Rec7: Owura John Dramani Mahama de ato asofo mpanyinfoɔ anim sɛ ɛyɛ adeɛ a ɔba aa, free Senior High School no, ɔbɛtrɛ mu ama n'aka ankorakora deɛ no nso
+Transcription: Rec7: ɔragyandrama anim aha ma deɛ ato asɔfoɔ mpanimfoɔ anim sɛ yade a wɔba a  firi sine haeskul na wɔbɛkyɛm ama naka ankorankoradeɛ n nso
+Similarity: 0.9174
+
+GT: Rec8: Yɛɛtoa kaseɛbɔ no ɛso
+Transcription: Rec8: yɛte w’akaseɛbɔ no aso
+Similarity: 0.9117
+
+GT: Rec9: Owura John Dramani Mahama, Onyame ayi no sɛ, saa berɛ yi deɛ ɔno ɛna emmedi ɔman Ghana anim na ɔnfa ɔman no nkɔ deɛ Onyame ahyehyɛ sɛ ɔpɛ sɛ ɛkɔduru
+Transcription: Rec9: ɛɛ owura dwondramani maha ma onyame ayi no sɛ saa ɛberɛ yi deɛ ɔno na ɛmmɛdi ɔman ga na animu na ɔmfa ɔman no nkɔ deɛ onyame ahyehyɛ sɛ ɔpɛsɛ kɔduru
+Similarity: 0.9595
+
+GT: Rec10: Na mpanyinfoɔ yi aa wɔnnom adwumadie ɛne s3 ɔman agyapadeɛ yi a ɔmanfoɔ afom afa, ɛyɛ Asset Recovery Interagency Network West Africa, Wɔnnom ɛne ankorankora na afei amanone nwumakuo ahodoɔ pii ɛde kasoboɔm aka abɔ mu a, wɔyɛ aseɛ no aseɛ no nhyiamudie yɛaa wɔde ɛboa kwan a yɛbafa so, na nea yɛwɔ no yetumi akorakora no yie ewiase nyinaa.
+Transcription: Rec10: na mpanimfoɔ yɛ a wɔ no mu adwumadie ne sɛ ɛɔman agyapadeɛ yi a ɔmanfoɔ afom afa ɛyɛ asetrekɔberi nte egyansi netwerk westafrika wɔn no mu ne ɛankorankora na afe amano ne nnwumakuo ahodorɔ pii adi kasobom aka abom a wɔyɛ afe ano afe ano asiamudie yi a wɔde ɛreboa kwan ɛbɛfa so na nneɛ ɛwɔ no yɛatumi akorakora no yie ewiase nyinaa
+Similarity: 0.9347
+
+GT: Rec11: ɛwɔ sɛ ye maki sure sɛ yɛbɔ yɛn ho mmɔden na yɛbɔ ɔman ne sika ho ban
+Transcription: Rec11: awo sɛ yɛyɛmɛhwihwoɔ sɛ yɛbɔ yɛho mɔde naa yɛbɔ ɔman no sika ho ban
+Similarity: 0.9473
+
+GT: Rec12: Sika bɔne a efifri baabi ɛba ɔman no mu anaa efri ɔman no mu ɛkɔ baabi aa ɛsɛe sɛbe ebibiman ne wiase nyinaa ne Ghana no, yetumi asi ano kwan
+Transcription: Rec12: sika bɔne a ɛfifiri baabi bɔ ɔman nu na ɛfiri ɔman no mu kɔ baabi no a ɛsɛe sɛ be abibiiman ne ewiase nyinaa ne gana no yɛtumi asiano ho kwan
+Similarity: 0.9460
+
+GT: Rec13: ɔman no obiaa ma n'ani ada hɔ na saa adeɛ na yɛɛyɛ no, etumi ayɛ dɛn, akɔ fam
+Transcription: Rec13: man no obiara me nʼani ada hɔ na saa adeɛ na yɛreyɛ no atumi ayɛ dɛn akɔ fam
+Similarity: 0.9547
+
+GT: Rec14: Yɛse yɛn deficit, yɛn mpuntun ndwuma no ɛtɔ sin kakraa a afe bia anka ɛyɛ sɛ yɛhia additional two hundred billion. Nti wo hwɛ wei aa, emu 50% koraa kɔ
+Transcription: Rec14: a yɛse yɛ defisit yɛmpuntunnwuma no ɛtu si kakra a afe bi anka asi yɛhia adehyna tuane bilen ntu weweɛ a ka mu fifti pɛrsɛnt koraa kɔ
+Similarity: 0.8037
+
+GT: Rec15: ɛno nti na ɛnɛ yehyia yi. Nti nnɛ ɛyɛ dawurobɔ aa yɛma Ghanafuo nyinaa ne wiase, Africa, obiara etie sɛ temamufoɔ nso mmoa
+Transcription: Rec15: ɛno enti na miɛhyia enti na ɛyɛ da wubo a yɛrema ganafoɔ nyinaa ne ewiase afrka obi atie sɛ timamufoɔ nso mmoa
+Similarity: 0.9273
+
+GT: Rec16: Yɛn nyinaa ntumi nko ntia, nko ntia ɛkwan bɔne aa ɛnkorɔfoɔ fa so ɛpɛ sika
+Transcription: Rec16: me nnyantumi nkuntia nkuntia ɛkwan bɔne a nkurɔfoɔ fa so pe sika
+Similarity: 0.9307
+
+GT: Rec17: Woɔmo afa kwan bɔne so, na sika no nkɔ aban hɔ. Aban sika nso ɛSɛ Sɛ ɔkɔ bɔ bosia
+Transcription: Rec17: ɔbɛfa kwammɔne so na sika na nkɔ aban hɔ abɛn sika nsoɔ so ɔkɔ bɔbosia
+Similarity: 0.9456
+
+GT: Rec18: Yewie aa, na yɛn aa, yɛsan a'complaini
+Transcription: Rec18: a ewia n yɛno yɛnsaakɔmpiin
+Similarity: 0.8261
+
+GT: Rec19: Ansa na sika bi wo de bɛto hɔ ne ade koraa no, omi tumi checki sɛbi wo ID card, kɔ checki wo background kakraa nti
+Transcription: Rec19: nsansa na sikariwude bɛtoɔ ne adekoraa no ɔetumi kyɛke sɛ bwae di kakɔ kyɛke wo ba gran kakrant
+Similarity: 0.8548
+
+GT: Rec20: Afe yi abatoɔ no omo nni hwee ɛwɔ mu ɛsen nkunimdie nkoaa
+Transcription: Rec20: afe aba toɔ na wɔmni hwee wɔ mu sɛ nkonimdie nkwa
+Similarity: 0.9181
+
+GT: Rec21: Yefri NPP ɛhɔ aba no na yɛnbɔ hwii nkɔ Sefwi Juaboso mmrahyɛbedwani ɛyɛ owura Kwabena Minta Akandor na ɔde ato edwa sɛ Electoral Commission a ɔte edwa soɔ yi wɔnnom nnim adwuma koraa, sɛ classroom abatoɔ koraa ɛnsɛ sɛ yɛ ma ɔmo kwan ma omo hwɛ so
+Transcription: Rec21: yɛfiri ani pipii ɛhɔ aba no no yɛmmɔhwe ɛnkɔ tahwidwabosoɔ amrahyebɛdwani yɛ oura kwabena minta akandɔ na wɔde atoo adwa sɛ yɛlatwa akɔmehyeyɛ ɔte adwaso wɔn mu n m adwumakoraa sɛ kla hsum abatoɔ pra nsɛ sɛ yɛ mɔm kwammomhwɛ so
+Similarity: 0.9465
+
+GT: Rec22: Omo ayɛ krado sɛ wɔnmo ɛba akɔ akɔtena fie sɛ mfie nwotwe wɔnmo adi awie omo kɔtena fie nti kwan biaa so no, ɔmo bɛyɛ ɔmo afa mu deɛ asan agye tumi no
+Transcription: Rec22: wommayɛ krado sɛ wɔn mu rebaakɔ akɔtenafie sɛ mfie nwɔtwe wɔn mu adi awiom kɔtena fie enti kwan bi aso no ɔbɛyi wɔn famu deɛ asane agye tomi
+Similarity: 0.9241
+
+GT: Rec23: Onimuonyam foɔ Ursula Owusu Akuffo ada dwumadie soronko bi adi a wɔfrɛ no err National Cyber Security Awareness na ɛno ɛkwan a yɛfa so di nkitaho ɛwɔ abɛɛfo kwan no soɔ sɛ nea yɛbɛyɛ no yie na yɛnbɔ abɔsrɛ mu ka sɛ ne titriw ne abatoɔ bere yi, ɛna odi saa duma yi afa ho
+Transcription: Rec23: onimuonyamfoɔ esla owusu akufo ada adwumadie sonkobi adi a wɔfrɛ no  nahyonal saibar sekuriti awenes na ɛno ɛkwan ɛfa so di nketa ho wɔ abɛfo kwan soɔ sɛdeɛ ɛbɛyɛ no yie na yɛ mo mmɔ abosiamukansɛm ne kyikyire ne abatoɔ bere na wɔredi saadwuma yi afa ho
+Similarity: 0.9015
+
+GT: Rec24: Yɛnkɔ nsɛm foforɔ mu na onuonyamfoɔ Kennedy Agyapong ɛde ato wɔnnomo a, wɔtɔn spare parts anim ɛsɛ Dr. Bawumia bɔhyɛ a wɔhyɛ sɛ ɔde flate rate policy ɛbaba no, ɔbɛhyɛ no ketee. Sɛ Nyame boa no ɛma no ba so a, ɔbɛhyɛ no ama woayɔ.
+Transcription: Rec24: nsɛmfoforɔ mu na onimuonyamfoɔ kenedi agyapɔn de ato wɔnom a ɛtɔn spepas anim sɛ dokta baomia bɔhyɛ a wɔrehyɛ sɛ wɔde flatret polisi ɛbɛba no wɔbɛhyɛ ne kete sanyamey adom no onyaman yi adwatena so deɛ wɔbɛhyɛ no ama wayɛ
+Similarity: 0.8710
+
+GT: Rec25: Yɛnkɔ nsɛm foforɔ mu na nsaase wura nom yi a ɛwɔ Akyim Abuakwa ɛde ato edwa sɛ, sɛ wɔnnom de omo nsaase ɛbɛma nnipa bɔne foɔ a omo tu fam agudie a ɛnnam mmra kwan so yi, ɛne sɛ wɔnnom ɛbenya wɔn nsaase na woatena ase ɛnkwanhosɛn mu no wɔnnom ɛnhwɛ na wɔn nyi baako sɛnea ɛbɛyɛ a wɔbetumi abɔ wɔn nsuo ɛne wɔn asaase ɛho ban
+Transcription: Rec25: na yɛnkɔ ansɛm foforɔ mo na nsase wiranom yɛ ɔwɔ akyemebo akwa ɛde ato egya sɛ ɛɛ sɛ wɔn de wɔ mo nsase bɛma nnipabɔnfoɔ a wɔn m tu fam agudeɛ yɛ na mmrakwan so yi ɛne sɛ wɔn m bɛnyi wɔn asase na watena ase nkwan hosɛn mu no wɔn m ɛnhwɛ na wɔnyi baako sɛdeɛ ɛbɛyɛ a wɔbɛtumi aboɔ nsuo ne nsase ho
+Similarity: 0.9747
+
+GT: Rec26: Nti sɛ yɛto yɛn bo ase a, bribiaa kɔ mu yie awie no, yebetumi ayɛ no yie
+Transcription: Rec26: enti sɛ yɛaterɛ bo ase a biribi ara pɔm bi nya yie no yɛbɛtumi ayɛ mo yie
+Similarity: 0.9434
+
+GT: Rec27: ɔman no mo ma yɛnto yɛn bo, na yɛnbɔ yɛn asomdwoe ɛho ɛban
+Transcription: Rec27: ɔman no mem yɛntuɛmo na yɛmmɔyaso die ho bae
+Similarity: 0.9010
+
+GT: Rec28: Mpɛn pii no, sɛ obi nnim wo a, na woaka nea onnim ɛfa wo ho
+Transcription: Rec28: paipii no sɛ obi nni wo a ne w’aka deɛ wɔnnim fa wo ho
+Similarity: 0.8825
+
+GT: Rec29: Nti dwumadie yi, yɛde twetwe nkɔmɔ ɛhwɛ abakwasɛm na ama mmabunu nso esua bribi pa ɛde efri mu
+Transcription: Rec29: ɛti dwumadine yi yɛde twetwe nkɔmmɔ hwɛ abakwasɛm na ama mmɛbunu so asua biribi pa de afiri mu
+Similarity: 0.9643
+
+GT: Rec30: Tena se relaxi yɛba abɛbɔ nkɔmɔ. Na nkɔmɔ no, deɛ ɛdɛ deɛ ɛdɛ nkoa
+Transcription: Rec30: a tena se relakse yɛbaabɛbɔ nkɔmmɔ nankɔmmɔ no deɛ dɛ deɛ dɛ nko a
+Similarity: 0.9057
+
+GT: Rec31: ɛnɛ yɛn mea sika ɛmma obi se ɔnfa nkɔ ma obi
+Transcription: Rec31: ɛno yɛmfa sika amma obiso wɔ mfa nkɔ mu obi
+Similarity: 0.9237
+
+GT: Rec32: Hwan na ɛde nnam ma agyinamoa anaa ekura sɛ ɔnfa nkɔma obi
+Transcription: Rec32: hwan na ɛde ɛnam maagyinamo a naakura se wɔmfa ɔnkɔmmɔn b
+Similarity: 0.9141
+
+GT: Rec33: Obiaa ho kyere no, nti wo sendi sika a, fa fa kwan papa no so
+Transcription: Rec33: ye ahokyere no eti mu sɛ ne sika fafa kwan papa no so
+Similarity: 0.8854
+
+GT: Rec34: Onyankopɔn adom, ɔyɛ abrante kwakoraa in 1969 ɛna ɔsom ɔman yi
+Transcription: Rec34: nyankopɔn dom ayɛ aberante kwaa koraa nantin sikstinan ɛnna ɔsom ɔmɛn
+Similarity: 0.8712
+
+GT: Rec35: Ghana ha anka wo yɛ president ba koraa a anka nkorɔfoɔ ntumi mbɛn wo sɛdeɛ yennim no. President bebree mma wontumi mbɛn ɔmo
+Transcription: Rec35: gana anka woyɛ president bakoro a nka nkurɔfoɔ rentumi mbɛwɔ sɛ deɛ anim no president bebree mma worentumi mbɛw
+Similarity: 0.9417
+
+GT: Rec36: Yɛdaase sɛ woama yɛn akwannya yi a yɛ ne wo baabɛ twetwe nkɔmɔ
+Transcription: Rec36: yɛda ase sɛ wama yɛn akwanyɛeɛ a yɛne oba bɛtwetwe nkɔmmɔn
+Similarity: 0.9385
+
+GT: Rec37: Sɛnea wo si hu me no, saa na me teɛ. Errm nneama a m'ani gye ho, a me di akyire, makoma di akyire ɛno na ɛdan m'adi ma nnipa
+Transcription: Rec37: sɛ neɛ osi hum  saa na meteɛ am nneɛma a meani gde a meme me medi akyire m’akoma di akyire de na ɛdaa me di monipa
+Similarity: 0.8319
+
+GT: Rec38: Me nkola berɛm, m'ani agye ho, uurmm naturally, ɛnyɛ ade a m'ahyɛda akɔ akɔsua ɛna me yɛ
+Transcription: Rec38: e me nkɔnaberɛm mani agye ho am naturali ɛnyɛ adeɛ a masadaakoakɔsua na mereyɛɛ
+Similarity: 0.9195
+
+GT: Rec39: Me nkola berɛm ɛnwomtoɔ, stage, wo ma me chance a m'ani gye ho
+Transcription: Rec39: menkɔdaberɛm na nnwomtoɔ steegy ma me nkyansa m’anigye ho
+Similarity: 0.8914
+
+GT: Rec40: Me gye di sɛ obiaa Nyame abɔ no biaa no, ɔwɔ, ɔde akyɛdeɛ bi ahyehyɛ yɛn mu a
+Transcription: Rec40: megye sɛ obiara a na meabɔ no biara no ɔwɔ ɔde akyɛdeɛ bi ahyɛhyɛe mu a
+Similarity: 0.9164
+
+GT: Rec41: ɛwɔ sɛ yɛn na yɛhwehwɛ ani na yedi akyire de yɛ adwuma sɛnea kyerɛw sɛm no esi kyerɛ yɛn no
+Transcription: Rec41: ɛwɔ sɛ yɛ neɛ yɛhwehwɛ ni na yɛdi te di yɛadwuma sɛ ne yɛtwerɛsɛm ne nsikyerɛɛ no
+Similarity: 0.8947
+
+GT: Rec42: Nso kyerɛ sɛ Nyame ama obiaa akyɛdeɛ
+Transcription: Rec42: nanso kyɛsɛanyameɛm obiara kyɛdeɛ
+Similarity: 0.9056
+
+GT: Rec43: Me sua nyinaa, na me pɛ sɛ me kɔ America
+Transcription: Rec43: mesuaɛennam ne mefɛ sɛ mekaamirika
+Similarity: 0.6829
+
+GT: Rec44: Me nyaa akwanya bi, time a me kɔ school wɔ UK no
+Transcription: Rec44: menyaa kwanya bi tam ma mekɔsku wɔ yukino
+Similarity: 0.8321
+
+GT: Rec45: Me wie no, me tenaa America kakraa
+Transcription: Rec45: mewie no a metenaa amerika kakra
+Similarity: 0.8218
+
+GT: Rec46: Me de kɔhyiaa me yere. Me yere yɛ African American
+Transcription: Rec46: amekɔsia me yere mehireɛ afekane merɛk ɛ
+Similarity: 0.7911
+
+GT: Rec47: Nti no, eerr me waree yɛ a me bɔɔ bra kakraa, yɛ tenaa hɔ kakraa. Yɛtenaa hɔ, yɛtenaa America for almost twenty years bɛyɛɔ
+Transcription: Rec47: enti no am mɛmɛboare a bɔbrakakra ɛtena ho tena mmereka faholmost mɛrɛ twantiiɛ
+Similarity: 0.8272
+
+GT: Rec50: ɛna yɛbaa fie
+Transcription: Rec50: nna yɛbaa fie
+Similarity: 0.9162
+
+GT: Rec51: Wo papa bɛyɛɛ president na ɛma wo baa fie?
+Transcription: Rec51: wopapa bɛyɛ presden nnɛm a woba fie
+Similarity: 0.8392
+
+GT: Rec52: Omo a aka hɔ no obiaa mma yɛ. Me me di akɔ ne aba.
+Transcription: Rec52: wɔmmo aka wonnanubiabae na me medi akɔneɛ ba
+Similarity: 0.8235
+
+GT: Rec53: Deɛn na wonya fi saa service no mu?
+Transcription: Rec53: ɛdeɛn na wonya fi saa serbes nim
+Similarity: 0.8495
+
+GT: Rec54: ɛno nso me feel sɛ Nyame na ɛde ama
+Transcription: Rec54: ɛno nso mefire sɛ nyame no deɛ ma
+Similarity: 0.9120
+
+GT: Rec55: Me me aa na me pɛ sɛ me boa. Me hu sɛ bribi ɛkɔso a, me pɛ sɛ me nso me boa
+Transcription: Rec55: memenyane mpɛ sɛ meboa me ho sɛ biribi kɔso a mpɛ sɛ meso meboa
+Similarity: 0.8774
+
+GT: Rec56: Sɛ me hu sɛ obi wɔ tebea mu koraa,ɔhaw bi koraa na metumi ayɛ bribi a, ɛsɛ sɛ me boa
+Transcription: Rec56: sɛ memu sɛ obi wɔ tibea kra hao bi kran metnaeɛ biribi a ɛ ɛsɛ mwa
+Similarity: 0.8944
+
+GT: Rec57: Wo papa yɛ president, ɛdeɛbɛn na wonntumi nyɛ?
+Transcription: Rec57: e wopapa e presedent ɛdeɛn bena ɔntumi nyɛ
+Similarity: 0.7887
+
+GT: Rec58: Sɛbe ɛnyɛ akɔnɔ koraa a yɛka ho asɛm no
+Transcription: Rec58: sebe sebe ɛnyɛ akɔnnɔ kora a yɛka ho asɛm no
+Similarity: 0.9172
+
+GT: Rec59: ɛdeɛn na wo papa ka kyerɛɛ wo?
+Transcription: Rec59: ɛdɛn na apapa ka kyerɛ wo
+Similarity: 0.9245
+
+GT: Rec60: But me nso me feel sɛ obiaa yɛ individual, err deɛ Nyame de ama me no
+Transcription: Rec60: bate me aso meiri sɛ obiara yɛ niɔ n anyame de ama me no
+Similarity: 0.8601
+
+GT: Rec61: Me ma koma di akyire. Urrmm Abigo, wo papa adwuma na wo yɛ yi?
+Transcription: Rec61: mere makomadi akyire am abegu opɛpadwuma na woyɛ
+Similarity: 0.8338
+
+GT: Rec62: Enti deɛn nti na me deɛ me yɛ president ba nti me nso me nkɔ yɛ ɛno?
+Transcription: Rec62: enti deɛ eti na medeɛ meyɛprisɛn banti me so menkɔyɛ no
+Similarity: 0.8751
+
+GT: Rec63: Me deɛ, sɛ me si ka yɛ, me fe me nkodaa berɛm
+Transcription: Rec63: me deɛ sɛ mesika no firi me nkɔdaden
+Similarity: 0.8701
+
+GT: Rec64: Me me feel sɛ ɛwɔ sɛ wo te aseɛ sɛ wo kɔ pɛ mpɛnpɛnsoɔ bi agyina a,
+Transcription: Rec64: akɔyɛsadeɛna me mefire sɛ  wɔsɛ wɔte aseɛ sɛ worekɔ pɛmpɛmpɛnsoɔ bi nyina de b
+Similarity: 0.9111
+
+GT: Rec65: ɛno no wo, ɛno nti na wokɔgye a, na ɛndeɛ woafom.
+Transcription: Rec65: ɛno no woɛno enti a wokɔdyi nanneɛ wafom
+Similarity: 0.8733
+
+GT: Rec66: Me feel sɛ wo kɔ no, saa arena no, ɛyɛ baabi a wokogyina na woaboa wo, woasɔ wo mu
+Transcription: Rec66: me fisa wo kɔ no saa arina no ɛyɛ bɛbiaa o kɔgyira na wawaboa wasom
+Similarity: 0.8520
+
+GT: Rec67: Enti ɛnyɛ sɛ som no na ɛde wo kɔ saa kwan no a, na wohwɛ sɛ ok, sika wɔ hɔ, anaa ɛhɔ deɛ wo kɔ a, ɛnkyɛ na woayɛ yie
+Transcription: Rec67: enti sɛ ɛnyɛ som no na ɛde wo kɔ saa kwan a na ɔre sɛ ɔkɛ sika wɔ hɔ anaa hɔ deɛ ɔkwan nyɛ no ayɛ yie
+Similarity: 0.9404
+
+GT: Rec68: Urrm sɛ akwannya no ba, errer na me gyi di nso sɛ, mayɛ kristoni no, Nyame etutu m'anamon ɛde si baabi, akwannya no ba na ɛhɔ na me feel sɛ sunsum no de me kɔ a, me di so.
+Transcription: Rec68: am sɛ akwanyɛ ne ba  na megyedi so sɛ mayɛ kristoniino nya me atutu na mo adi sɛ biibi akwanyɛ ne ba na ɛhɔ na mefi sɛ sunsum no ɛde me kwa medi so
+Similarity: 0.8933
+
+GT: Rec69: Wo nuanom, wo siblings, obiaa ntumi enyi n'anim annyɛ politics a anka ɛnnɛ, sɛ papa Kuffuor enni hɔ a, yebehu sɛ woamentor ne ba
+Transcription: Rec69: wo nuanom seblens obiara ntumi anyi n’anim anyɛ politiks a ɛnka ɛnnɛ sɛ papakofo nni hɔ a ɛbɛwu sɛ wɔammɛntɔ ne ba n
+Similarity: 0.9050
+
+GT: Rec70: Metwa me ho sima, monkɔ babia
+Transcription: Rec70: metwa me ho sena monkɔbaabiara
+Similarity: 0.8925
+
+GT: Rec71: Anoɔ denene. Mo ma no nda ɛha yi a, because nsɛm bebree betumi epiepie wɔ mu na ɛde aba ɛde ama wo
+Transcription: Rec71: ɔ ano de ne mommane nna ayi ara bikɔs nsɛm bebre bi tumi apipi mo na ɛde aba adi amaw
+Similarity: 0.8763
+
+GT: Rec72: ɛwɔ sɛ meyɛ no sɛ bɛɛma anaasɛ meyɛ no sɛ obaa?
+Transcription: Rec72: i a wɔsɛm yɛn sɛ bɛrma naasɛ wɔsm yɛn sɛ ɔbaa
+Similarity: 0.8970
+
+GT: Rec73: M'anka anka sɛ wo mbisa?
+Transcription: Rec73: maanka asɛnka mmsa
+Similarity: 0.7514
+
+GT: Rec74: Asɛ kurom ha yɛ bɔ me din paa, na ɛnyɛ me nkoa na yɛ bɔ me din o. Yɛ wɔ nkurɔfoɔ bi a nso a, nkorɔfoɔ tumi bɔ omo din paa
+Transcription: Rec74: aase kurompa yɛbɔ me din paa nanyɛ me nkwa na yɛbɔ e di o yɛwɔ nkurofɔ bi sɔ nkrofoɔ tmi bu m di paa
+Similarity: 0.9162
+
+GT: Rec75: Me nim sɛ sɛdea woasum yɛ wo dɛ no, woasum yɛ wo dɛ paa nti woafrɛ obi se eei fa to TV3 na eer Obinnim aba Delay show no so
+Transcription: Rec75: menim sɛ sɛdeɛ wʼasom yɛ ɔdɛm wasom yɛ ɔdɛ paa nti na wafrɛ obi sɛ e fa to tibitire naa  obi nim abadilehu ne so
+Similarity: 0.7691
+
+GT: Rec76: Sɛ nea ɔyɛ adwuma pa na yɛbɔ ne din
+Transcription: Rec76: sɛde ɔyɛ agum apa nebɔne din
+Similarity: 0.9020
+
+GT: Rec77: Nti ɛyɛ a na yɛbɔ wo din saa no a, sɛn na ɛyɛ a na ɛteɛ? Like..
+Transcription: Rec77: mfeɛ na yɛ rebɔwo dini saana a sɛn na yɛa na teɛ a
+Similarity: 0.8697
+
+GT: Rec78: Nti edin gyeɛ deɛ, ɛwɔ bible mu nti
+Transcription: Rec78: enti ndin gyeɛ deɛ ɛwɔ baabunu teni
+Similarity: 0.9298
+
+GT: Rec79: Nti sɛ wo bɔ me din bɔne o, wo bɔ me din papa o, medeɛ adwuma no a, yɛfrɛ me no aa na me hwɛ so a meyɛ
+Transcription: Rec79: wɔm dinendi so bo m din bɔne wo wɔm din papa o rea fan a na deɛ adwuma na yafrɛma na mehwɛsorameyi
+Similarity: 0.8368
+
+GT: Rec80: Eehhnn sɛ Yesu ne nsɛnkyerɛne no, Yesu nsɛnkyerɛne, ɛma ne din kɔɔyɛ
+Transcription: Rec80: a sɛ yesu ne nsɛnkyerɛnne no a yesu sɛnkyerɛnne o ma ne din kɔeɛ
+Similarity: 0.9179
+
+GT: Rec81: ɛna yekuu no nso so no, owuu yɛ nso no, ne din no kɔɔyɛ
+Transcription: Rec81: ɛneyɛkum wo ne nso so no wowuyɛ nso ne din ne kɔn
+Similarity: 0.9399
+
+GT: Rec82: Enti din biaa Nyame ma woagye bia no, sɛ ɛfa bɔne o, sɛ ɛfa papa bia o, woagye wo din
+Transcription: Rec82: enti din bi anyame ma woagye biara no sɛ ɛfa bɔne wo sɛ ɛfa papa bia o woagye wo din
+Similarity: 0.9548
+
+GT: Rec84: Aa wo yɛm hyehye wo anaa like, yɛɛbɔ wo din radio so, na yebie ho phoneline ne yɛka wo din, na Obinim o, na Obinim o like sɛnea ɛyɛ a, na wo ho yɛ wo
+Transcription: Rec84: a woyam hyehye wo anaa laik yɛbo di rediosoɔ ne abiofo nan yɛka de obi ni moɔ na obi ni mo no laik sɛn na yɛ anaa wo hoyɛ wo
+Similarity: 0.8662
+
+GT: Rec85: ɛna me ka no, edin deɛ sɛ yɛkɔbɔ no bɔne, yɛkɔbɔ no papa a yɛabɔ. But wo nnipa no a, yɛɛbɔ wo din no, wo na ɛwɔ sɛ wo hu sɛ edin no a yɛɛbɔ no, ɛbɛboa wo anaasɛ ɛmboa wo
+Transcription: Rec85: ɛnna meka no edin deɛ sɛ yɛkɔbɔne bɔne yɛkɔbɔ ne papa a yɛabɔ bato wo nnipa na yɛrebɔ wo din no wo na wɔ sɛ ɔhuni sɛ din na yɛbɔne bɔa n asɛ mmoa wo
+Similarity: 0.9622
+
+GT: Rec86: Sɛ woate aseɛ? ɛna asɛm no a yɛɛka no, ɛwɔ sɛ wo hwɛ sɛ ɛyɛ ampa anaa sɛ ɛnyɛ ampa.
+Transcription: Rec86: ao so ate aseɛ ɛnna asɛm na yɛreka no ɛhwo so nhwɛ sɛ ɛya mpa a na sɛ nya mpa
+Similarity: 0.8664
+
+GT: Rec87: Sɛ asɛm na omo ka no, ɛnyɛ ampa a, enni kwan sɛ ɛha wo
+Transcription: Rec87: sɛ asɛm ɔ moka na nya mpa a ni kwa sɛ haw
+Similarity: 0.9263
+
+GT: Rec88: Sɛ ɛyɛ ampa deɛ a, ɛna ɛwɔ sɛ ɛha wo
+Transcription: Rec88: sɛ yampa deɛ a nɛ wɔ sɛ haw
+Similarity: 0.8991
+
+GT: Rec89: Obetumi aka sɛ, me wɔ adɔfoɔ wɔ Ghana ha sen m'atamfo
+Transcription: Rec89: mitbɛka sɛ mewɔ adɔfoɔ ɔga mʼahase mʼatamfo
+Similarity: 0.8613
+
+GT: Rec90: Woatamfo no nso dɛn nti na wo su su sɛ ɛno nti omo tan wo, dɛn na woayɛ?
+Transcription: Rec90: wʼatamfoɔ noso dɛn nti na wosusu sɛ nontum tan wo dɛn na wayɛ
+Similarity: 0.8904
+
+GT: Rec91: Mentan obiaa ba
+Transcription: Rec91: menka obi aba
+Similarity: 0.7476
+
+GT: Rec92: Na sɛ wo te Obinim asɛm wɔ wo TV so, radio so a, wo deɛ tena se na bisa sɛ na ɛyɛɛ deɛn na ɛbaa yɛ?
+Transcription: Rec92: asɛ wote obi nim ho a sɛ woeraduusuo tiisua wode ɔtena ase ne bisa sɛ na ɛyɛɛ dɛ ne baeɛ
+Similarity: 0.8509
+
+GT: Rec93: Wo be hu sɛ obi na ɛkɔ ka bɛkaa me
+Transcription: Rec93: owunso di na poka bɛkaa me
+Similarity: 0.7431
+
+GT: Rec94: Akoma, akoma bɔne a
+Transcription: Rec94: akoma akoma bɔne a
+Similarity: 0.9643
+
+GT: Rec95: Mmmm, me wɔ bi. Na abufuo Onyankopɔn de bɔɔ onipa
+Transcription: Rec95: mɛwɔ bi na abufuu onyankopɔn debonipa
+Similarity: 0.9082
+
+GT: Rec96: Yebofu de yɛ adeɛ
+Transcription: Rec96: yɛbu fu de yɛ adeɛ
+Similarity: 0.9282
+
+GT: Rec97: Yɛnbo mfu ɛmfa nyɛ bɔne. ɔse wo de yɛ bɔne koraa no a, mɛmma ewia no
+Transcription: Rec97: bu r fu mfa nyɛ bɔne ɔsɔ deɛ bɔne kora n a mɛmma wia no nkotɔg
+Similarity: 0.9280
+
+GT: Rec98: ɛnkɔ enkyire ɛmfa ɛnkɔ yɛ adeɛɔ a ɛde problem bɛbrɛ wo
+Transcription: Rec98: nkɔ akyi mfa wokwɔyɛ adeɛ a adi oroblem dɛberɛ wo ɔ
+Similarity: 0.9061
+
+GT: Rec99: Yɛfrɛ me Nana Kwame Bediako
+Transcription: Rec99: ɛfrɛm na nakwam miriam
+Similarity: 0.7353
+
+GT: Rec100: Mmm nti sesei nso deɛ me de me sika no nyinaa akyɛ ɛna menya faahodie
+Transcription: Rec100: m tesesei so deɛ mede m sika no nyinaa kyɛ na manya fa ho d
+Similarity: 0.8666
+
+GT: Rec101: Oh mani agye saa papa. Mani agye paa sɛ Oahu
+Transcription: Rec101: boo mʼani agyesawa pa mʼani agye aase bɛhuu i
+Similarity: 0.8096
+
+GT: Rec102: Wo a ankasa etu anamɔn aba me hɔ
+Transcription: Rec102: warankasa atu anammɔ ho aba me hɔ
+Similarity: 0.9043
+
+GT: Rec103: Mo ayɛ ama no ayɛ fɛ. Me deɛ m'anda anso daɛ sɛ aka mehu wo no, na ebia me feel sɛ green background bi wɔ hɔ
+Transcription: Rec103: womayi amanayɛ fɛ me deɛ mmannaa so daeɛ sɛ nka mehuwere no dɛ mpea mepi sɛ grin bagraunt bi ɔ hɔ a
+Similarity: 0.8754
+
+GT: Rec104: Woabɛsra yɛn a yɛkasa yi, meda wo ase paa
+Transcription: Rec104: woabɛsrae aeyɛkasɛ tumi da woase pa
+Similarity: 0.8429
+
+GT: Rec105: Nti yɛda woase sɛ wo nso woahunu deɛ yɛɛyɛ yi na sno woapɛ sɛ yɛnmra wo nkyɛn na yɛnmedi nkɔmɔ
+Transcription: Rec105: tel ase sɛ wɔnsuo wɔahunu deɛ yɛyɛ nanso wɔapɛ sɛ yɛmmra wo nkyɛnuume di nkmu
+Similarity: 0.9211
+
+GT: Rec106: Sɛ mpɛn pii no koraa ɛyaa na bebree no, yɛn mom na yɛkɔ pa kyɛw
+Transcription: Rec106: yemtem pii nokraeɛ na dɔ yɛ mum ne ekɔpakyɛwo
+Similarity: 0.8891
+
+GT: Rec107: Na yɛne wo nni Nkɔmɔ. Yɛn nso yɛbɛda woase paa
+Transcription: Rec107: na yɛne woani nkoɔ nso yɛbɛdɛ wʼasɛ pa a
+Similarity: 0.9294
+
+GT: Rec108: Yennim wo. Ghana deɛ mɛtumi aka sɛ sɛ obi nim wo a ɛyɛ ebiaa wo nuanom, ne woabusua kakraa bi
+Transcription: Rec108: yɛnnim wo gana de metumi aksɛ sɛ obi nnim a ɛyɛ obi a wo nnuanem w’abusua kakorɛ
+Similarity: 0.8352
+
+GT: Rec109: Nti prɛko pɛ ɛna yɛtee nnipa bi sɛ Obinim na bediako a ɔpɛ sɛ obedi Ghana anim
+Transcription: Rec109: enti prɛko pɛ aniatii nnipɛ bi sɛ obi di nana bɛdi aho a ɔpɛ sɛ ɔbɛdi gan n’anim
+Similarity: 0.9232
+
+GT: Rec110: Na ɔboa ma Ghana enya nkɔsoɔ
+Transcription: Rec110: na ɔboa magana anya nkɔsoɔ
+Similarity: 0.9203
+
+GT: Rec111: Nana me mbisa wo, me pa wo kyɛw o, Ghana ha, ɛhe na wofri, ɛhe na yɛtetee wo, ɛhe na wo nyinii yɛ?
+Transcription: Rec111: namemsa wo mpakye wo gana ɛhi na ɔfiri ɛhi na ɛtete wo ɛhi na wonyiniiɛ
+Similarity: 0.8052
+
+GT: Rec112: Menyɛ hɔhoɔ. Na nnipa nim me paa
+Transcription: Rec112: menyɛ hɔhoɔ na nnipa nim me maa
+Similarity: 0.9282
+
+GT: Rec113: Err yɛnfa me mbɛtoo dwa te sɛ nea nnɛ nnipa de m'asɛm abɛ to dwa yi
+Transcription: Rec113: ɛmfa me mɛtu dwate sɛ nɛnnɛ hia otunipa de me sa masɛ mabɛtu dwa yi
+Similarity: 0.9372
+
+GT: Rec114: Oliver se wo bedi deɛ ɛbɛyɛ den paa
+Transcription: Rec114: eporoba sɛ wobɛdi deɛ madrem pa a me
+Similarity: 0.8560
+
+GT: Rec115: Sɛ mɛba abɛ yɛ wei o, na mom, anyɔnkofoɔ bi a me fa yɛ, adesua bi a me sua yɛ, ebia nneɛma bi a me yeɛɛyɛ, na ɛsesa me
+Transcription: Rec115: sɛ mabɛyɛ woyo ne mmom ayɔnkofoɔ bi a mefaeɛ adesua bi a mesuaeɛ baabi a nnoma bi a meye yɛeɛ ne ɛresesa me
+Similarity: 0.9450
+
+GT: Rec116: Na nnipa bi wɔ hɔ a, ɔsesa nso a, onhu sɛ ɔsesa
+Transcription: Rec116: a nnipa bi wɔ hɔ a ɔsesa nso a wɔnhunu sɛ ɔsesa
+Similarity: 0.9590
+
+GT: Rec117: Obiaa problem yɛ different. Na wo nya ma obi sika na ɔde kɔhwɛ ne ba wɔ hospital, na wo boa obi tua ne fees aa, wo ntumi nka nkyerɛ nea ɔba na onni bribiaa edi, anaasɛ yetu no afi ne fie sɛ aan mienu wei deɛ mayɛ ama wɔn na wei deɛ menumi nyɛ
+Transcription: Rec117: o obiara problem yɛ difrɛnt na wonya mma obi sika na ɔde kɔhyɛ ne baa hɔspte na ɔbɔɔ obi tua ne fisa wontumi nka nkyerɛ ne ɔba a ɔnni biribia bɛdi nʼase yɛ tu no afiri ne fie sɛ a mammienu weɛ deɛ mayɛammɔm na modeɛ meentumi nyɛ
+Similarity: 0.9346
+
+GT: Rec118: ɛna mehwɛ nso a, sɛ nnipa million ba a, mentumi nyɛ
+Transcription: Rec118: ana mehwɛ nso a sɛ nnipa milon baa mentumi nyɛ
+Similarity: 0.9411
+
+GT: Rec119: Nneɔma Nneɔma bebree bi, ɛhyɛ da nsisi so yie
+Transcription: Rec119: ɛ no manoma bebree bi nhyɛ dɛ nsisi suiɛ
+Similarity: 0.9350
+
+GT: Rec120: Na yɛnso, nea yenim ɛne nea yɛbetumi ayɛ no, yɛnfa nka ho
+Transcription: Rec120: ɛ na yɛ nso na ɛnanim ne na ɛbɛtumi ayɛ no yɛmfa nka ho
+Similarity: 0.9474

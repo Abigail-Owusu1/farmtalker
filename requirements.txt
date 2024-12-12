@@ -1,0 +1,9 @@
+Flask
+twilio
+python-dotenv
+openai-whisper
+faster-whisper
+google-cloud-speech
+openai
+google-cloud-texttospeech
+boto3
