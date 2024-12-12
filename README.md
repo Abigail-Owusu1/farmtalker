@@ -73,7 +73,7 @@ Refer to the system architecture diagram for more details.
 ### Installation Steps
 1. Clone the repository:
    ```bash
-   git clone https://github.com/your-username/farmtalker.git
+   git clone https://github.com/Abigail-Owusu1/farmtalker.git
    cd farmtalker
 
 2. Install dependencies:
